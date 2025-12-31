@@ -24,7 +24,7 @@ An asynchronous Python application that fetches real-time weather data for multi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/multi-city-weather-tracker.git
+git clone https://github.com/jandaghi14/multi-city-weather-tracker.git
 cd multi-city-weather-tracker
 ```
 
@@ -77,14 +77,6 @@ multi-city-weather-tracker/
 └── README.md               # Project documentation
 ```
 
-## What I Learned
-
-- Async/await patterns with aiohttp
-- Concurrent API calls with asyncio.gather()
-- Error handling for network operations
-- Testing async code with aioresponses
-- Context managers for resource management
-- SQLite database operations
 
 ## Future Improvements
 
